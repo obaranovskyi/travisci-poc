@@ -1,1 +1,1 @@
-module.exports.add = (x, y) => x - y;
+module.exports.minus = (x, y) => x - y;
