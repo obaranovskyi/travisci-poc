@@ -1,5 +1,5 @@
 const { add } = require("./add");
 
 test("add - adds numbers", () => {
-  expect(add(1, 6)).toBe(7);
+  expect(add(1, 4)).toBe(5);
 });
